@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/c53da342-6339-45f6-b0e8-2c6d69639499
+
 # Arduino Temperature & Humidity LCD Monitor
 
 A microcontroller-based environmental monitoring project that reads real-time ambient temperature and humidity data and displays the values on an LCD screen.
